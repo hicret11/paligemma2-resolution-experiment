@@ -1,0 +1,10 @@
+Image,Task,Expected,224 Answer,448 Answer,224 Correct,448 Correct
+Menu,OCR,$5.89,$11.99,$5.89,False,True
+Menu,Reasoning,Porterhouse ($5.69),baby beef ribs,new zealand lamb,False,False
+Menu,Mixed,3,3,3,True,True
+Turkish Invoice,OCR,003,14,003,False,True
+Turkish Invoice,Reasoning,Ana Yemekler,Main coure,toplam,False,False
+Turkish Invoice,Mixed,12,12,10,True,False
+Year-value Chart,OCR,49,60,49,False,True
+Year-value Chart,Reasoning,2016,2016,2016,True,True
+Year-value Chart,Mixed,4,4,4,True,True
