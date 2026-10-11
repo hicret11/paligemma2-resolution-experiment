@@ -1,0 +1,10 @@
+Image,Task,Question,Expected,224 Answer,448 Answer,224 Correct,448 Correct
+Menu,OCR,What is the price of Wagyu beef?,$5.89,$11.99,$5.89,False,True
+Menu,Reasoning,What is the cheapest main dish on the menu?,Porterhouse ($5.69),baby beef ribs,new zealand lamb,False,False
+Menu,Mixed,How many main dishes cost less than $10?,3,3,3,True,True
+Turkish Invoice,OCR,What is the invoice number?,003,14,003,False,True
+Turkish Invoice,Reasoning,Which item has the highest total price?,Ana Yemekler,Üzerinde 2 tabak yemek,toplam,False,False
+Turkish Invoice,Mixed,How many items were ordered in total?,12,12,2,True,False
+Year-value Chart,OCR,What is the value shown for 2014?,49,49,49,True,True
+Year-value Chart,Reasoning,Which year has the highest value?,2016,2016,2016,True,True
+Year-value Chart,Mixed,How many years have a value greater than 30?,4,4,4,True,True

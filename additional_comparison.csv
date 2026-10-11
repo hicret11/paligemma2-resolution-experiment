@@ -1,0 +1,10 @@
+Category,Question,Expected,224 Answer,448 Answer
+Price Reading,What is the price of Porterhouse?,$5.69,$28.95,$5.69
+Price Reading,What is the price of New Zealand lamb?,$10.99,$18.90,$10.99
+Price Reading,What is the price of Wagyu beef?,$5.89,$11.99,$5.89
+Price Reading,What is the price of Natural cut bone-in ribeye?,$6.50,$11.99,$8.50
+Simple Comparison,"Which is cheaper, $5.69 or $10.99?",$5.69,$5.69,$5.69
+Simple Comparison,"Which is cheaper, $5.69 or $5.89?",$5.69,5.69,5.89
+Visual Reasoning,What is the cheapest main dish on the menu?,Porterhouse,baby beef ribs,new zealand lamb
+Visual Reasoning,What is the most expensive main dish on the menu?,Baby back ribs,filet mignon,parmesan-herb angus
+Text-Assisted Reasoning,"Main dishes and prices: Baby back ribs $15.99, Parmesan-herb angus $12.99, New Zealand lamb $10.99, Porterhouse $5.69, Tenderloin $13.59, Wagyu beef $5.89, Natural cut bone-in ribeye $6.50. Which main dish is the cheapest?",Porterhouse,new zealand lamb,new zealand lamb
